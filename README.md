@@ -2,9 +2,9 @@ Projekt zaliczeniowy kursu CodersLab. Aplikacji typu CRM służąca do zarządza
 
 Funkcje:
 
-logowania jako adminiostrator i użytkownik. Administrator posiada dostęp do wszystkich funkcji, pracownik ma ograniczony 
+  logowania jako adminiostrator i użytkownik. Administrator posiada dostęp do wszystkich funkcji, pracownik ma ograniczony 
 dostęp, , brak dostępu do wszystkich funkcji dla niezalogowanych użytkowników.
- CRUD dla zajęć, instuktorów, klientów,karnetów
+  CRUD dla zajęć, instuktorów, klientów,karnetów
 
 Rozwój aplikacji:
 
