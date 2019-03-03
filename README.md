@@ -11,3 +11,18 @@ Rozwój aplikacji:
 
 - rozbudowanie opcji karnetów
 - mailing dotyczący zajęć oraz końca karnetu
+
+
+
+
+CodersLab bootcamp finnal project. CRM app for managing fitness club.
+
+Functions:
+
+- logging in as an admin or user. Admin have acces to all sites.
+CRUD for sessions, employees, customeres, memberships.
+
+To do list:
+
+- memberships with more options to choose
+- mailing for sessions and membership end
