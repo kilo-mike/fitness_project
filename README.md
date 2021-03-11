@@ -3,8 +3,8 @@ CodersLab bootcamp finnal project. CRM app for managing fitness club.
 
 Functions:
 
-- logging in as an admin or user. Admin have acces to all sites.
-CRUD for sessions, employees, customeres, memberships.
+- logging in as an admin or user. Admin have access to all sites.
+CRUD for sessions, employees, customers, memberships.
 
 To do list:
 
